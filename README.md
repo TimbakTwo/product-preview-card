@@ -33,8 +33,7 @@ the elements that will be contained inside of it.
 
 - I did get the template for making that using this website as a source: credit: https://www.w3schools.com/icons/tryit.asp?filename=tryicons_fa-shopping-cart
 
-6. I learned an html tag that is new to me it's called "strike" it's useful for a part of 
-e-commerce websites like I am making right now.
+
 
 7. I did some css responsive layout for mobile, mobile screen width should be at 375px to make it work
 
