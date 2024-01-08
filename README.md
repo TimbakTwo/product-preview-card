@@ -1,4 +1,4 @@
-Not a major personal project, only tutorial purposes project
+Not a major personal project, only tutorial purposes project test
 
 How I did the process?
 
