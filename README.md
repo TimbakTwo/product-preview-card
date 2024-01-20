@@ -1,5 +1,7 @@
 Not a major personal project, only tutorial purposes project test
 
+(old project, it's nice it's still here)
+
 How I did the process?
 
 1.Measuring the product-preview-card-component
