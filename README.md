@@ -1,4 +1,4 @@
-Not a major personal project, only tutorial purposes project test
+Not a major personal project, only tutorial purposes project test, no framework
 
 (old project, it's nice it's still here)
 
